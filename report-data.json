@@ -17208,7 +17208,7 @@
       "branch": "account-handoff-supplement",
       "source_url": "https://www.adyen.com/legal/list-restricted-prohibited",
       "source_heading": "Restricted and prohibited products and services",
-      "condition": "Use the applicable Merchant versus Platform/Partner column; Platform restrictions also cover subsellers. P prohibits, R requires extra [研究档案引用]; approval doesnot make unlawful activity lawful. Dropshipping is restricted, not categorically prohibited; deceptive marketing/refundavoidance and counterfeit activity prohibited.",
+      "condition": "Use the applicable Merchant versus Platform/Partner column; Platform restrictions also cover subsellers. P prohibits, R requires extra evidence/approval; approval doesnot make unlawful activity lawful. Dropshipping is restricted, not categorically prohibited; deceptive marketing/refundavoidance and counterfeit activity prohibited.",
       "verification": "Identify actualplatform/sellerrelationship,category andwritten approval.",
       "evidence_limit": "Conditional category matrix is not a universal ban on all dropshipping or a sufficient Catalog formula.",
       "us_status": "证据不足",
